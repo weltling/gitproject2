@@ -1,2 +1,2 @@
 const c = 50;
-const myFung= () => {};        
+const b = () => {console.log("Hi there")};        
