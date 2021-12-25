@@ -1,2 +1,2 @@
 const a = 50;
-const b = () => {};        
+const b = () => {console.log("Hi there")};        
